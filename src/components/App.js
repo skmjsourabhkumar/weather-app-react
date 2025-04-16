@@ -74,7 +74,7 @@ function App() {
     <div className="App">
       <div className="heading"> <div><SiAccuweather size={30}/></div>
       <div>
-      <h1>Weather App</h1>
+      <h1>Weather App By REACT JS</h1>
       </div>
       
       
